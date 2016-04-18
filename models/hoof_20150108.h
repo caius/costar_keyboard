@@ -6,7 +6,8 @@
 #include "common.h"
 
 #define STR_PRODUCT      L"Filco Majestouch TKL"
-#define PRODUCT_ID       0x047D
+// #define PRODUCT_ID       0x047D
+#define PRODUCT_ID 0x021e // Aluminum Mini Keyboard (ISO)
 
 #define ROW_PORT  PORTD
 #define ROW_MASK  0b01111011

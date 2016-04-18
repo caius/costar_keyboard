@@ -13,7 +13,8 @@
 #include "../lib/keycode.h"
 
 #define STR_MANUFACTURER L"Bathroom Epiphanies, Costar Keyboard -"
-#define VENDOR_ID        0x16C0
+// #define VENDOR_ID        0x16C0
+#define VENDOR_ID 0x05ac // Apple Inc
 
 #define NUMBER_OF_ROWS     18
 #define NUMBER_OF_COLUMNS   8
