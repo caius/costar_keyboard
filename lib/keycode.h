@@ -160,6 +160,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define KC_BRK  {false, KEY_PAUSE}
 #define KC_ERAS {false, KEY_ALT_ERASE}
 #define KC_CLR  {false, KEY_CLEAR}
+/* Mac Specific */
+#define KC_POWR {false, KEY_POWER}
+#define KC_MUTE {false, KEY__MUTE}
+#define KC_VLUP {false, KEY__VOLUP}
+#define KC_VLDN {false, KEY__VOLDOWN}
 /* Japanese specific */
 #define KC_ZKHK {false, KEY_GRAVE}
 #define KC_RO   {false, KEY_INT1}
