@@ -88,7 +88,7 @@
          TAB,    Q,   W,   E,   R,   T,   Y,   U,   I,   O,   P,LBRC,RBRC,NUHS,   DEL, END,PGDN,    P7,  P8,  P9,PPLS, \
          CAPS,   A,   S,   D,   F,   G,   H,   J,   K,   L,SCLN,QUOT,      ENT,                     P4,  P5,  P6,      \
          LSFT,GRV,   Z,   X,   C,   V,   B,   N,   M,COMM, DOT,SLSH,     LSFT,          UP,        P1,  P2,  P3,PENT, \
-         LCTL,LALT,LGUI,                SPC,                APP,RGUI,RALT,RCTL,   LEFT,DOWN,RGHT,   P0,     PDOT,      \
+         LCTL,LALT,LGUI,                SPC,                PENT,RGUI,RALT,RCTL,   LEFT,DOWN,RGHT,   P0,     PDOT,      \
          \
          NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, \
          NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, NO, \
